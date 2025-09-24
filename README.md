@@ -9,13 +9,5 @@ This project is a Python-based tool designed to perform foundational cybersecuri
 
 The tool is intended for educational and defensive use: to help students and beginners learn how Python can be applied to common cybersecurity workflows, such as scanning, enumeration, and basic analysis. It is **not** intended for any malicious activity.
 
-## Suggested Sections to Add
-
-* **Features** — short bullet list of the tool’s capabilities.
-* **Installation** — prerequisites and step-by-step setup instructions.
-* **Usage** — examples and command-line options.
-* **Contributing** — how others can contribute or report issues.
-* **License** — recommend an open-source license (e.g., MIT) if you want others to reuse the code.
-
 **Note:** 
 Download and Install Nmap Software from https://nmap.org/download . 
