@@ -18,4 +18,4 @@ The tool is intended for educational and defensive use: to help students and beg
 * **License** — recommend an open-source license (e.g., MIT) if you want others to reuse the code.
 
 **Note:** 
-Remeber, Download and Install Nmap Software from https://nmap.org/download . 
+Download and Install Nmap Software from https://nmap.org/download . 
